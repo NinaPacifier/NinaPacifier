@@ -28,9 +28,6 @@
 
 <p><a href="https://github.com/NinaPacifier">
 <img width="440" align="left" src="https://github-readme-stats.vercel.app/api?username=ninapacifier&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true"/></p></a><a href="https://github.com/NinaPacifier"><img width="440"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninapacifier&show_icons=true&locale=en&layout=compact&theme=blue-green"" alt="ninapacifier" /></a></p>
-<br><br>
-<br><br>
-<br><br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://dev.to/https://devfolio.co/@ninapacifier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://devfolio.co/@ninapacifier" height="30" width="40" /></a>
