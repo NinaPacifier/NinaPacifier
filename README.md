@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Nishant Nandan</h1>
+# <h1 align="center">️ **Hey!!  <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Nishant Nandan** 🎯️🚀️</h1>
+
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninapacifier&label=Profile%20views&color=0e75b6&style=flat" alt="ninapacifier" /> </p>
