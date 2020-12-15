@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninapacifier&label=Profile%20views&color=0e75b6&style=flat" alt="ninapacifier" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninapacifier" alt="ninapacifier" /></a> </p>
+
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - 🔭 I’m currently working on **Web & Android Development**
 
@@ -18,7 +19,12 @@
 
 - 📫 How to reach me **nishantnandan2510gmail.com**
 
-- ⚡ Fun fact **I think I am funny at Designing**
+- ⚡ Fun fact **I think I am funny at Designing!!**
+
+
+<p align="center">&nbsp;
+<a href="https://github.com/NinaPacifier">
+<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=ninapacifier&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true"/></p></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,7 +46,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninapacifier&show_icons=true&locale=en&layout=compact" alt="ninapacifier" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ninapacifier&show_icons=true&locale=en" alt="ninapacifier" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninapacifier&" alt="ninapacifier" /></p>
+
+
 
